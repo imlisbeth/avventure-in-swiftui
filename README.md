@@ -1,3 +1,3 @@
-# Voyage au bout de la nuit
+# Traumnovelle
 
-An app to discover and share the places you venture.
+An app to discover and share real and imaginary places you dream venture.
