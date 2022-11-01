@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B1A7EF1E28BD9511008BDCB4 /* VoyageAuBoutDeLaNuitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A7EF1D28BD9511008BDCB4 /* VoyageAuBoutDeLaNuitApp.swift */; };
 		B1A7EF2028BD9511008BDCB4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A7EF1F28BD9511008BDCB4 /* ContentView.swift */; };
 		B1A7EF2228BD9512008BDCB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A7EF2128BD9512008BDCB4 /* Assets.xcassets */; };
 		B1A7EF2528BD9512008BDCB4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A7EF2428BD9512008BDCB4 /* Preview Assets.xcassets */; };
+		B1F3F7BB29105C3C001265E8 /* TraumnovelleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F3F7BA29105C3C001265E8 /* TraumnovelleApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B1A7EF1A28BD9511008BDCB4 /* VoyageAuBoutDeLaNuit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VoyageAuBoutDeLaNuit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B1A7EF1D28BD9511008BDCB4 /* VoyageAuBoutDeLaNuitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoyageAuBoutDeLaNuitApp.swift; sourceTree = "<group>"; };
+		B1A7EF1A28BD9511008BDCB4 /* Traumnovelle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Traumnovelle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1A7EF1F28BD9511008BDCB4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B1A7EF2128BD9512008BDCB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1A7EF2428BD9512008BDCB4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1F3F7BA29105C3C001265E8 /* TraumnovelleApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TraumnovelleApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +35,7 @@
 		B1A7EF1128BD9511008BDCB4 = {
 			isa = PBXGroup;
 			children = (
-				B1A7EF1C28BD9511008BDCB4 /* VoyageAuBoutDeLaNuit */,
+				B1A7EF1C28BD9511008BDCB4 /* Traumnovelle */,
 				B1A7EF1B28BD9511008BDCB4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +43,20 @@
 		B1A7EF1B28BD9511008BDCB4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B1A7EF1A28BD9511008BDCB4 /* VoyageAuBoutDeLaNuit.app */,
+				B1A7EF1A28BD9511008BDCB4 /* Traumnovelle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B1A7EF1C28BD9511008BDCB4 /* VoyageAuBoutDeLaNuit */ = {
+		B1A7EF1C28BD9511008BDCB4 /* Traumnovelle */ = {
 			isa = PBXGroup;
 			children = (
-				B1A7EF1D28BD9511008BDCB4 /* VoyageAuBoutDeLaNuitApp.swift */,
+				B1F3F7BA29105C3C001265E8 /* TraumnovelleApp.swift */,
 				B1A7EF1F28BD9511008BDCB4 /* ContentView.swift */,
 				B1A7EF2128BD9512008BDCB4 /* Assets.xcassets */,
 				B1A7EF2328BD9512008BDCB4 /* Preview Content */,
 			);
-			path = VoyageAuBoutDeLaNuit;
+			path = Traumnovelle;
 			sourceTree = "<group>";
 		};
 		B1A7EF2328BD9512008BDCB4 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B1A7EF1928BD9511008BDCB4 /* VoyageAuBoutDeLaNuit */ = {
+		B1A7EF1928BD9511008BDCB4 /* Traumnovelle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B1A7EF2828BD9512008BDCB4 /* Build configuration list for PBXNativeTarget "VoyageAuBoutDeLaNuit" */;
+			buildConfigurationList = B1A7EF2828BD9512008BDCB4 /* Build configuration list for PBXNativeTarget "Traumnovelle" */;
 			buildPhases = (
 				B1A7EF1628BD9511008BDCB4 /* Sources */,
 				B1A7EF1728BD9511008BDCB4 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = VoyageAuBoutDeLaNuit;
+			name = Traumnovelle;
 			productName = VoyageAuBoutDeLaNuit;
-			productReference = B1A7EF1A28BD9511008BDCB4 /* VoyageAuBoutDeLaNuit.app */;
+			productReference = B1A7EF1A28BD9511008BDCB4 /* Traumnovelle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B1A7EF1528BD9511008BDCB4 /* Build configuration list for PBXProject "VoyageAuBoutDeLaNuit" */;
+			buildConfigurationList = B1A7EF1528BD9511008BDCB4 /* Build configuration list for PBXProject "Traumnovelle" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B1A7EF1928BD9511008BDCB4 /* VoyageAuBoutDeLaNuit */,
+				B1A7EF1928BD9511008BDCB4 /* Traumnovelle */,
 			);
 		};
 /* End PBXProject section */
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1A7EF2028BD9511008BDCB4 /* ContentView.swift in Sources */,
-				B1A7EF1E28BD9511008BDCB4 /* VoyageAuBoutDeLaNuitApp.swift in Sources */,
+				B1F3F7BB29105C3C001265E8 /* TraumnovelleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +266,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"VoyageAuBoutDeLaNuit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Traumnovelle/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,8 +279,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.llulah.VoyageAuBoutDeLaNuit;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = im.lisbeth.Traumnovelle;
+				PRODUCT_NAME = Traumnovelle;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -294,7 +294,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"VoyageAuBoutDeLaNuit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Traumnovelle/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -307,8 +307,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.llulah.VoyageAuBoutDeLaNuit;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = im.lisbeth.Traumnovelle;
+				PRODUCT_NAME = Traumnovelle;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B1A7EF1528BD9511008BDCB4 /* Build configuration list for PBXProject "VoyageAuBoutDeLaNuit" */ = {
+		B1A7EF1528BD9511008BDCB4 /* Build configuration list for PBXProject "Traumnovelle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B1A7EF2628BD9512008BDCB4 /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B1A7EF2828BD9512008BDCB4 /* Build configuration list for PBXNativeTarget "VoyageAuBoutDeLaNuit" */ = {
+		B1A7EF2828BD9512008BDCB4 /* Build configuration list for PBXNativeTarget "Traumnovelle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B1A7EF2928BD9512008BDCB4 /* Debug */,

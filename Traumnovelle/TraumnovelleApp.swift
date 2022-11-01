@@ -1,6 +1,6 @@
 //
-//  VoyageAuBoutDeLaNuitApp.swift
-//  VoyageAuBoutDeLaNuit
+//  TraumnovelleApp.swift
+//  Traumnovelle
 //
 //  Created by ليزبيث هالا on 29/08/22.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct VoyageAuBoutDeLaNuitApp: App {
+struct TraumnovelleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
