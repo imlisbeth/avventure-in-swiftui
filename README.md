@@ -1,4 +1,4 @@
-# Adventures in SwiftUI
+# Avventure in SwiftUI
 
 Exploring SwiftUI through projects based on materials that accompany Apple's [Introducing SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui).
 
